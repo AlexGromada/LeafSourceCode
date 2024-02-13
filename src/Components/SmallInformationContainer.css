@@ -1,0 +1,48 @@
+.LittleInfo{
+    width: 12vw;
+    height: 30vh;
+    margin-right: 4vw;
+    border: 1px solid rgb(180, 177, 177);
+    border-radius: 8px;
+    position: relative;
+    overflow: hidden;
+}
+.ImgContainer{
+    background-color: greenyellow;
+    width: 100%;
+    height: 40%;
+}
+.ImgContainer>img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.LittleBoxTitle{
+    font-size: 22px;
+    font-weight: 700;
+    margin: 2% 10% 4% 10%;
+}
+.LittleBoxMainText{
+    margin: 0 10% 0 10%;
+}
+.MoreInfoBtn_LittleInfo{
+    width: 33%;
+    height: 13%;
+    display: flex;
+    border: 0px;
+    border-radius: 0 70%;
+    margin: 0 0 8% 10%;
+    background-color: rgb(97, 255, 57);
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    position: absolute;
+    bottom: 0;
+}
+.MoreInfoBtn_LittleInfo>a{
+    margin-bottom: 3%;
+    text-decoration: none;
+    font-size: 17px;
+    font-weight: 600;
+    padding: 50%;
+}

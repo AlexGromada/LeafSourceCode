@@ -1,0 +1,35 @@
+{
+    "titles":[
+        {
+            "Content": "Some text to read"
+        },
+        {
+            "Content": "Do you want to read some text?"
+        },
+        {
+            "Content": "It`s the last text here...."
+        }
+    ],
+    "mainText":[
+        {
+            "Content": "Some text to read Some text to read Some text to read Some text to read Some text to read Some text to read Some text to read Some text to read Some text to read Some text to read Some text to read Some text to read Some text to read Some text to read Some text to read Some text to read Some text to read"
+        },
+        {
+            "Content":"Відкрий світ виборювачок змін та видатних учених, мрії яких змінили сьогодення. Право голосу, рівні права, теорія відноснос Відкрий світ виборювачок змін та видатних учених, мрії яких змінили сьогодення. Право голосу, рівні права, теорія відноснос"
+        },
+        {
+            "Content":"Відкрий світ виборювачок змін та видатних учених, мрії яких змінили сьогодення. Право голосу, рівні права, теорія відноснос Відкрий світ виборювачок змін та видатних учених, мрії яких змінили сьогодення. Право голосу, рівні права, теорія відноснос"
+        }
+    ],
+    "Image":[
+        {
+            "Content": "leaf/NewJuice"
+        },
+        {
+            "Content": "leaf/Lunch"
+        },
+        {
+            "Content": "leaf/GreenEarth"
+        }
+    ]
+}
